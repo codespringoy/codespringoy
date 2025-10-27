@@ -1,6 +1,6 @@
-# 🌱 CodeSpringOY Community
+# 🌱 CodeSpring Community
 
-Welcome to **CodeSpringOY**, a growing tech community of developers, innovators, and learners passionate about using technology to build solutions, share knowledge, and grow together.
+Welcome to **CodeSpring**, a growing tech community of developers, innovators, and learners passionate about using technology to build solutions, share knowledge, and grow together.
 
 ---
 
@@ -46,9 +46,9 @@ We believe in respect, inclusion, and collaboration — every member deserves to
 
 ## 💬 Connect With Us
 - **WhatsApp Group:** [Join Here](https://chat.whatsapp.com/EuNilcwszvqGFhCicixq3C)
-- **Discord Server:** [Join Here](#)
-- **X (Twitter):** [@CodeSpringOY](#)
-- **Email:** not avalable yet
+- **Discord Server:** [Not Avalable](#)
+- **X (Twitter):** [Not Avaliable](#)
+- **Email:** codespring.oy@gmail.com
 
 ---
 
